@@ -3,6 +3,8 @@
 
 ## Features
 
+Test
+
 This Google Maps crawler will enable you to get more and faster data from Google Places than the official  [Google Places API](https://developers.google.com/places/web-service/search).
 
 To understand how to configure the scraper and get ideas on how you can use the data you can extract,  [watch a short video tutorial](https://www.youtube.com/watch?v=J43AX9wu-NI)  on YouTube or follow our step-by-step guide on  [how to scrape Google Maps](https://blog.apify.com/step-by-step-guide-to-scraping-google-maps/).
